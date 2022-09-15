@@ -1,0 +1,17 @@
+
+
+
+
+wmic /output:C:\InstalledPrograms.txt product get name,version
+
+
+
+
+
+
+
+
+
+
+
+
